@@ -1,0 +1,21 @@
+.productDetail{
+            width: 25%;
+            padding: 10%;
+            margin: 0,auto;
+            &__image{
+                width: 400px;
+                height: 200px;
+            }
+            &__name{
+                font-size: 28px;
+                font-weight: bold;
+                margin-top: 40px;
+            }
+            &__category{
+                color: gray;
+            }
+            &__price{
+                font-weight: bold;
+                margin-top: 10px;
+            }
+        }
